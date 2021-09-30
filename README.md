@@ -1,16 +1,11 @@
-# projeto_imc
+# Projeto - IMC
 
-A new Flutter project.
+Este é o segundo projeto em Flutter desenvolvido durante a disciplina de Programação para Dispositivos Móveis (PDM38106) no Instituto Federal de Santa Catarina - Campus Caçador.
 
-## Getting Started
+O objetivo deste projeto era demonstrar aos alunos como criar uma interface em que o usuário informe o peso e a altura, assim como implementar widgets (Scaffold e AppBar, TextField e Decoration, SingleChildScrollView, Form e TextFormField), além de apresentar o resultado do cálculo.
 
-This project is a starting point for a Flutter application.
+Dúvidas sobre o projeto: fabricio.herpich@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para mais informações sobre Flutter, acesse:
+[Documentação](https://flutter.dev/docs) e 
+[Exemplos de projetos](https://flutter.dev/docs/cookbook).
